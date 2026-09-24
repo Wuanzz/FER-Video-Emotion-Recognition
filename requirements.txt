@@ -1,0 +1,12 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision & Video Processing
+opencv-python-headless>=4.8.0
+Pillow>=9.5.0
+numpy>=1.23.0
+
+# Web Application & Visualization
+gradio>=4.0.0
+matplotlib>=3.7.0
